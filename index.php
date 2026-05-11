@@ -294,21 +294,21 @@
       <div class="grid md:grid-cols-3 gap-6 lg:gap-8">
         <!-- Profile 1 -->
         <div class="bg-white rounded-[28px] p-6 shadow-[0_2px_8px_rgba(15,23,42,0.08)] border border-slate-200/80 text-left">
-          <img alt="Dr. Sukesh Zamwar" class="w-full h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDmBd9FfKYhN3dCJmxI33UTvbgApj2bi5LlBF4b68k5MHMo86jj3TioJh0j_EJLdwQaRtQhFqmNK6cRMmTqQ-i-WB-m7l4nIe_Mc97NmmNDR9wtqWEzaUk7hUN7Cp9qQPGBSEQhuG4m_Mu-4_0BhmtllvMQ4MtlTSZlhVoAHyvUcfWdtJDgLLwhbUm72KJDpc7CZ74PXqLRdnY6M6kKXy3SV5ZCa_wLqhUJ2z9eYg13-HM1wdZDnsuAO326Sbdv-t1CI69McKdAIJM" />
+          <img alt="Dr. Sukesh Zamwar" class="w-full h-[260px] sm:h-[320px] lg:h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDmBd9FfKYhN3dCJmxI33UTvbgApj2bi5LlBF4b68k5MHMo86jj3TioJh0j_EJLdwQaRtQhFqmNK6cRMmTqQ-i-WB-m7l4nIe_Mc97NmmNDR9wtqWEzaUk7hUN7Cp9qQPGBSEQhuG4m_Mu-4_0BhmtllvMQ4MtlTSZlhVoAHyvUcfWdtJDgLLwhbUm72KJDpc7CZ74PXqLRdnY6M6kKXy3SV5ZCa_wLqhUJ2z9eYg13-HM1wdZDnsuAO326Sbdv-t1CI69McKdAIJM" />
           <h4 class="text-teal-500 font-medium text-2xl">Dr. Sukesh Zamwar</h4>
           <p class="text-sm text-gray-600 mt-1">Chairman</p>
           <p class="text-sm text-gray-600 mt-3 leading-7">Dr. Sukesh Zamwar, a versatile towering like personality of the modern co-operative movement in Maharashtra...</p>
         </div>
         <!-- Profile 2 -->
         <div class="bg-white rounded-[28px] p-6 shadow-[0_2px_8px_rgba(15,23,42,0.08)] border border-slate-200/80 text-left">
-          <img alt="Mrs. Komal Zamwar" class="w-full h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLVxvIKgUvXSpcTkqQjcjCUWlreqQ3BI8Z3P0AqW1HudbqcLCKc8Ekj6EtNsYlCZQ3Gpe5nyqDgq8IQEUVDvopWoVIWw2O-slj0tgcRU_385h5QgRqroSt-ZYdbTwuf4RRUo_Yppduz-LKxtY7cmmINGgBziHb3ZtD6KaBALYk7fALmZfkQnVBDFoGVqnbkcZTXWWTFCW4T5nQxXhm4blAWnzjitMm50yM4tVDiPaE8zTAIcAkIg7xqSSU7B4pSiWJRGRCQcAoWVA" />
+          <img alt="Mrs. Komal Zamwar" class="w-full h-[260px] sm:h-[320px] lg:h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLVxvIKgUvXSpcTkqQjcjCUWlreqQ3BI8Z3P0AqW1HudbqcLCKc8Ekj6EtNsYlCZQ3Gpe5nyqDgq8IQEUVDvopWoVIWw2O-slj0tgcRU_385h5QgRqroSt-ZYdbTwuf4RRUo_Yppduz-LKxtY7cmmINGgBziHb3ZtD6KaBALYk7fALmZfkQnVBDFoGVqnbkcZTXWWTFCW4T5nQxXhm4blAWnzjitMm50yM4tVDiPaE8zTAIcAkIg7xqSSU7B4pSiWJRGRCQcAoWVA" />
           <h4 class="text-teal-500 font-medium text-2xl">Mrs. Komal Zamwar</h4>
           <p class="text-sm text-gray-600 mt-1">President-Buldana Urban Charitable</p>
           <p class="text-sm text-gray-600 mt-3 leading-7">Mrs. Komal Zamwar, guiding Buldana Urban Charitable towards sustainable growth and meaningful social impact.</p>
         </div>
         <!-- Profile 3 -->
         <div class="bg-white rounded-[28px] p-6 shadow-[0_2px_8px_rgba(15,23,42,0.08)] border border-slate-200/80 text-left">
-          <img alt="Shri. Radheshyamji Chandak" class="w-full h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDUVsdNMFtGwCCs_w1TbIA5SFFO8TKWibFQ_EMhYvW4N3uSrtH2lA70LtxAVqhL66aNCjH3A971sAxWUXkTVzBpw-BReSeDTlrTqLZo4utCeXFcPlrvao9iLBv4gtYA5kuPM1F_pTfLAAUlCp4jKAsceItnuXdHMbWX0ioYbBeYTeB6F9_cTnFFj_oAzZlJ5FHz3dfYtkywdbYBTNr0SISvKJddPOALr4yFFL8lk_kVIO7CRsj1ScpZ51PHY-1nHmmIEWSofCY4Z3E" />
+          <img alt="Shri. Radheshyamji Chandak" class="w-full h-[260px] sm:h-[320px] lg:h-[365px] object-cover rounded-[20px] mb-5" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDUVsdNMFtGwCCs_w1TbIA5SFFO8TKWibFQ_EMhYvW4N3uSrtH2lA70LtxAVqhL66aNCjH3A971sAxWUXkTVzBpw-BReSeDTlrTqLZo4utCeXFcPlrvao9iLBv4gtYA5kuPM1F_pTfLAAUlCp4jKAsceItnuXdHMbWX0ioYbBeYTeB6F9_cTnFFj_oAzZlJ5FHz3dfYtkywdbYBTNr0SISvKJddPOALr4yFFL8lk_kVIO7CRsj1ScpZ51PHY-1nHmmIEWSofCY4Z3E" />
           <h4 class="text-teal-500 font-medium text-2xl">Shri. Radheshyamji Chandak</h4>
           <p class="text-sm text-gray-600 mt-1">Founder, Chairman</p>
           <p class="text-sm text-gray-600 mt-3 leading-7">Shri. Radheshyamji Chandak, visionary Founder of Buldana Urban, pioneering growth through trust and commitment.</p>
@@ -410,13 +410,13 @@
   </section>
   <!-- END: InnovativeProjects -->
   <!-- BEGIN: HistoryVideoSection -->
-  <section class="relative h-[500px] flex items-center justify-center">
+  <section class="history-video-section relative min-h-[500px] md:h-[500px] py-12 md:py-0 flex items-center justify-center">
     <img alt="History" class="absolute inset-0 w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtCfsYYDauNVgC4oZjCdW1cfWO3zJm47sMtBtC_jV-d7_iz-EfrzKiXG7CTxi0XaX8N4bMZd0lfgSn08njKrTte9U_ZMiOz7WXaPV6BwuuhdXLDOHiNG-UPdVXrtBMtAkYu6drNxJs6sVHEmVAPcM4knPhSJBdKY2SFtrw6gZTa7uVp_W4w9W9A1DwHvZKcycw0OwDPYcFgIdMWClQOrnhWq2EAeZkrDSRi-K2OoxWegUcuBmi3jCFJdLFgFJIz9sAct68B1eafok" />
     <div class="absolute inset-0 bg-primary/40"></div>
     <div class="relative z-10 container mx-auto px-4 grid md:grid-cols-3 gap-8 items-center">
       <div class="text-white">
         <span class="text-xs font-bold uppercase tracking-widest text-accent">TRUSTED BANKING</span>
-        <h2 class="text-5xl font-bold mt-4 leading-tight">Buldana urban history <span class="italic font-light">Promo video</span></h2>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold mt-4 leading-tight">Buldana urban history <span class="italic font-light">Promo video</span></h2>
         <div class="flex items-center mt-8 space-x-4">
           <div class="w-12 h-12 bg-accent rounded-full flex items-center justify-center">
             <svg class="w-6 h-6 text-white" fill="currentColor" viewbox="0 0 20 20">
@@ -435,7 +435,7 @@
           </div>
         </button>
       </div>
-      <div class="text-white text-right">
+      <div class="text-white text-left md:text-right">
         <p class="text-sm leading-relaxed">We are at the forefront of revolutionizing the financial landscape through cutting edge fintech solutions our mission is to bridge the gap between traditional banking.</p>
       </div>
     </div>
@@ -512,11 +512,11 @@
       <div class="grid lg:grid-cols-2 gap-12 items-end mb-16">
         <div>
           <span class="text-xs font-bold text-emerald-500 uppercase">Features</span>
-          <h2 class="text-5xl font-bold text-primary mt-4">Get Started And Enjoy Full Service Features</h2>
+          <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary mt-4">Get Started And Enjoy Full Service Features</h2>
         </div>
         <p class="text-gray-500 text-sm">By integrating advanced technology with financial expertise we provide a comprehensive suite of services that cater to both individuals and businesses.</p>
       </div>
-      <div class="grid grid-cols-2 md:grid-cols-5 gap-8">
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-6 md:gap-8">
         <div class="text-center group">
           <div class="w-24 h-24 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4 border-2 border-transparent group-hover:border-emerald-500 transition-colors">
             <img alt="Mobile Banking" class="rounded-full" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBeXHSBlwhAEFh_lm1EN4r-o3ZQKpS0O9kNhWfxwog0VOQRovyvD23ghgRomFeusUcYFj-RpxdM8Yo41_RMrw9QDlC0SDJUg8dWc6gGyM7iOn2KB_KBYSKNvgbT2luyfecsJE2J5S-CGxpdLv6F7J54lABw_2GZHwKi5T9WvRcwtFVmbQqhg8mSWx3oSViPh_3VUY11Nhrmuhu1_U7L8_CJKq8H-VqkyhRHXhw3ele6LELNewzHNCHaYHEkTcf0Lim40nEVzYRPm5A" />
