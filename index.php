@@ -14,6 +14,8 @@
   <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
   <!-- Custom Font: Open Sans (closest match) -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&amp;display=swap" rel="stylesheet" />
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link href="assets/css/style.css?<?php echo time(); ?>" rel="stylesheet" />
 </head>
 
@@ -596,10 +598,11 @@
           <p class="text-slate-400 text-xs mb-4">Reg. No. 492 &bull; Chikhli, Buldana (Maharashtra) 443 201</p>
           <p class="text-slate-400 leading-relaxed mb-6" data-i18n="footer.mission">Our mission is to bridge the gap between traditional banking and modern technology and seamless financial services.</p>
           <div class="flex space-x-4">
-            <!-- Social Icons Placeholders -->
-            <span class="w-8 h-8 bg-slate-800 rounded-full flex items-center justify-center">f</span>
-            <span class="w-8 h-8 bg-slate-800 rounded-full flex items-center justify-center">t</span>
-            <span class="w-8 h-8 bg-slate-800 rounded-full flex items-center justify-center">i</span>
+            <a href="https://www.facebook.com/ambikaurban" target="_blank" rel="noopener noreferrer" class="w-8 h-8 bg-slate-800 hover:bg-emerald-500 rounded-full flex items-center justify-center text-sm text-white transition-colors" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.twitter.com/ambikaurban" target="_blank" rel="noopener noreferrer" class="w-8 h-8 bg-slate-800 hover:bg-emerald-500 rounded-full flex items-center justify-center text-sm text-white transition-colors" title="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/ambikaurban" target="_blank" rel="noopener noreferrer" class="w-8 h-8 bg-slate-800 hover:bg-emerald-500 rounded-full flex items-center justify-center text-sm text-white transition-colors" title="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@ambikaurban" target="_blank" rel="noopener noreferrer" class="w-8 h-8 bg-slate-800 hover:bg-emerald-500 rounded-full flex items-center justify-center text-sm text-white transition-colors" title="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.linkedin.com/company/ambikaurban" target="_blank" rel="noopener noreferrer" class="w-8 h-8 bg-slate-800 hover:bg-emerald-500 rounded-full flex items-center justify-center text-sm text-white transition-colors" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
           </div>
         </div>
         <div>
