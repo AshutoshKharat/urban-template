@@ -608,17 +608,21 @@
         <div>
           <h4 class="font-bold text-lg mb-6 underline decoration-emerald-500 underline-offset-8 decoration-2" data-i18n="footer.quicklinks">Quick Links</h4>
           <ul class="space-y-4 text-slate-400">
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.rates">Interest Rate Chart</a></li>
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.contact">Contact Branch</a></li>
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.reports">Annual Reports</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.link.rates">Interest Rates</a></li>
+            <li><a class="hover:text-white transition-colors" href="#management" data-i18n="footer.link.contact">Leadership Team</a></li>
+            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.reports">Complaint Redressal</a></li>
+            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.faq">FAQs</a></li>
+            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.link.rbi">RBI Guidelines</a></li>
           </ul>
         </div>
         <div>
           <h4 class="font-bold text-lg mb-6 underline decoration-emerald-500 underline-offset-8 decoration-2" data-i18n="footer.services">Our Services</h4>
           <ul class="space-y-4 text-slate-400">
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.svc.gold">Gold/Silver Loan</a></li>
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.svc.personal">Personal Loan</a></li>
-            <li><a class="hover:text-white transition-colors" href="#" data-i18n="footer.svc.rtgs">RTGS/NEFT/DD</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.svc.gold">Home Mortgage Loan</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.svc.education">Educational Loan</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.svc.money">Money Transfer</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.svc.vehicle">Vehicle Loan</a></li>
+            <li><a class="hover:text-white transition-colors" href="#services" data-i18n="footer.svc.deposit">Fixed Deposits</a></li>
           </ul>
         </div>
         <div>
