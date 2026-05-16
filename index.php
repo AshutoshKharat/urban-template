@@ -648,8 +648,8 @@
         </div>
       </div>
       <div class="mt-20 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500">
-        <p>© 2025 Shri Ambika Urban Multistate Co-op. Credit Society Ltd., Chikhli. All rights reserved.</p>
-        <p>Developed by <span class="text-emerald-500">AMFINTECH PRIVATE LIMITED</span></p>
+        <p>© 2026 Shri Ambika Urban Multistate Co-op. Credit Society Ltd., Chikhli. All rights reserved.</p>
+        <p>Developed by <span class="text-emerald-500">Promozie</span></p>
       </div>
     </div>
   </footer>
