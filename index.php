@@ -25,7 +25,7 @@
     <div class="container mx-auto px-4 py-3 flex items-center justify-between gap-8">
       <div class="flex items-center gap-6 md:gap-10">
         <img alt="Ambika Urban Logo" class="h-14 md:h-16" src="assets/images/ambika_urban_logo.png" />
-        <nav class="site-nav" aria-label="Primary navigation">
+        <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
           <a class="site-nav__link is-active" href="#home" data-i18n="nav.home">Home</a>
           <a class="site-nav__link" href="#about" data-i18n="nav.about">About</a>
           <a class="site-nav__link" href="#services" data-i18n="nav.services">Services</a>
@@ -34,6 +34,12 @@
           <a class="site-nav__link" href="#contact" data-i18n="nav.contact">Contact</a>
         </nav>
       </div>
+      <div class="flex items-center gap-3">
+      <button class="hamburger-btn" id="hamburger-btn" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
+        <span class="hamburger-btn__bar"></span>
+        <span class="hamburger-btn__bar"></span>
+        <span class="hamburger-btn__bar"></span>
+      </button>
       <div class="language-toggle" aria-label="Language selector">
         <button class="language-toggle__btn is-active" type="button" data-lang-switch="en">EN</button>
         <button class="language-toggle__btn" type="button" data-lang-switch="mr">मर</button>
@@ -43,6 +49,7 @@
           E-PPT
         </button>
       </div> -->
+      </div>
     </div>
   </header>
   <!-- END: TopHeader -->
